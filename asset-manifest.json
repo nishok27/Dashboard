@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Dasboard/login/static/css/main.47a95ef7.css",
-    "main.js": "/Dasboard/login/static/js/main.9c03a64a.js",
-    "static/js/787.1cd31a9e.chunk.js": "/Dasboard/login/static/js/787.1cd31a9e.chunk.js",
-    "static/media/user.png": "/Dasboard/login/static/media/user.bb9255a0065ae4d96d68.png",
-    "index.html": "/Dasboard/login/index.html",
-    "main.47a95ef7.css.map": "/Dasboard/login/static/css/main.47a95ef7.css.map",
-    "main.9c03a64a.js.map": "/Dasboard/login/static/js/main.9c03a64a.js.map",
-    "787.1cd31a9e.chunk.js.map": "/Dasboard/login/static/js/787.1cd31a9e.chunk.js.map"
+    "main.css": "/Dasboard/static/css/main.47a95ef7.css",
+    "main.js": "/Dasboard/static/js/main.33da245f.js",
+    "static/js/787.1cd31a9e.chunk.js": "/Dasboard/static/js/787.1cd31a9e.chunk.js",
+    "static/media/user.png": "/Dasboard/static/media/user.bb9255a0065ae4d96d68.png",
+    "index.html": "/Dasboard/index.html",
+    "main.47a95ef7.css.map": "/Dasboard/static/css/main.47a95ef7.css.map",
+    "main.33da245f.js.map": "/Dasboard/static/js/main.33da245f.js.map",
+    "787.1cd31a9e.chunk.js.map": "/Dasboard/static/js/787.1cd31a9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47a95ef7.css",
-    "static/js/main.9c03a64a.js"
+    "static/js/main.33da245f.js"
   ]
 }
