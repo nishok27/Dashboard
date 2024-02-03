@@ -34,18 +34,14 @@ function App() {
           <Route
             path="/"
             element={
-              email ? (
-                <>
-                  <div className="sideContent">
-                    <Sidebar />
-                  </div>
-                  <div className="navContent">
-                    <Navbar /> <Fileupload />
-                  </div>
-                </>
-              ) : (
-                <Navigate to="/login" />
-              )
+              <>
+                <div className="sideContent">
+                  <Sidebar />
+                </div>
+                <div className="navContent">
+                  <Navbar /> <Fileupload />
+                </div>
+              </>
             }
           />
         </Routes>
